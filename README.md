@@ -1,10 +1,8 @@
-Here is a **tighter, more direct README** that goes **straight to what matters for business**, keeps the **supply–demand focus**, and is still **GitHub-ready**.
-
----
 
 ## Airbnb Supply–Demand & Pricing Analysis
 
 This project analyzes **213,000+ Airbnb listings across 16 U.S. cities** to understand how **supply, demand, and market structure** drive short-term rental prices. The focus is on identifying **pricing drivers, supply constraints, and revenue opportunities** rather than just prediction.
+
 ---
 ## Business Questions
 
@@ -31,7 +29,7 @@ This project analyzes **213,000+ Airbnb listings across 16 U.S. cities** to unde
 
 ---
 
-## 💼 Business Value
+## Business Value
 
 * Supports **dynamic pricing and revenue optimization**
 * Identifies markets with **supply risk and demand opportunity**
@@ -40,7 +38,9 @@ This project analyzes **213,000+ Airbnb listings across 16 U.S. cities** to unde
 ## Tools
 
 Python (Pandas, NumPy, scikit-learn), R, Tableau, statistical modeling, data visualization
+
 ---
 ## Takeaway
 This project shows how **applied analytics** can explain **supply–demand dynamics**, quantify pricing risk, and support **real marketplace decisions**.
+
 ---
