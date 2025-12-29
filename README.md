@@ -3,6 +3,8 @@
 
 This project analyzes **213,000+ Airbnb listings across 16 U.S. cities** to understand how **supply, demand, and market structure** drive short-term rental prices. The focus is on identifying **pricing drivers, supply constraints, and revenue opportunities** rather than just prediction.
 
+Dataset:
+🔗 https://drive.google.com/file/d/12Ur4T_alNZc3CzAmLogRfdmEhhZUQoBt/view?usp=sharing
 ---
 ## Business Questions
 
